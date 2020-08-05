@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+Add your api url to the local.env for testing "API_BASE_PATH=api-url/v1"
+
 Install dependencies with:
 
     $ yarn

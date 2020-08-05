@@ -1,4 +1,4 @@
-# WARP Shopping Cart Assessment
+#  Cart App Assessment
 
 ## Getting Started
 
